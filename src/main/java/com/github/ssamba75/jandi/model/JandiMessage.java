@@ -1,4 +1,4 @@
-package com.juno.jandi.model;
+package com.github.ssamba75.jandi.model;
 
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.MediaType;

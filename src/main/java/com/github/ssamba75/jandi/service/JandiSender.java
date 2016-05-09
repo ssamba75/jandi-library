@@ -1,6 +1,6 @@
-package com.juno.jandi.service;
+package com.github.ssamba75.jandi.service;
 
-import com.juno.jandi.model.JandiMessage;
+import com.github.ssamba75.jandi.model.JandiMessage;
 import org.springframework.http.HttpEntity;
 import org.springframework.util.MultiValueMap;
 import org.springframework.web.client.RestTemplate;
