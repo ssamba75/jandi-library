@@ -1,0 +1,9 @@
+/.settings/
+/.classpath
+/.project
+/bin/
+.DS_Store
+.checkstyle
+/.idea
+*.iml
+.idea
